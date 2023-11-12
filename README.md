@@ -1,12 +1,12 @@
-# mi nombre
-# descripcion
-# contacto
-# proyectos
-- 👋 Hi, I’m @SebastianAsprino
-- 👀 I am interested in developing value projects for blockchain
-- 🌱 I am currently learning systems engineering
-- 💞️ I'm looking to collaborate on projects related to cryptocurrencies
-- 📫 How to reach me: asprinosebastian@proton.me
-- 😄 My website: https://asprino.tech
+# 👋 Hola, soy @SebastianAsprino
+<div>
+<p>¡Hola! Soy un apasionado desarrollador fullstack junior con experiencia en despliegue. Actualmente, estoy inmerso en mi carrera universitaria, explorando las maravillas del mundo del desarrollo. Aunque soy versátil en fullstack, mi verdadera comodidad y destreza se encuentran en el backend y en el fascinante universo de DevOps. 🚀💻 #CodeEnthusiast #BackendWizard</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SebastianAsprino&show_icons=true&theme=codeSTACKr" alt="SebastianAsprino" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=SebastianAsprino&color=dc143c&style=for-the-badge)
+
+## Lenguajes
+
+
+
+-------------

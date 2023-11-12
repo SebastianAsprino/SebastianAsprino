@@ -7,19 +7,6 @@
 
 ## Lenguajes
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=oracle)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
-![GO](https://img.shields.io/badge/-GO-000000?style=for-the-badge&logo=go)
-![Shell](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=powershell)
-
-
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3)

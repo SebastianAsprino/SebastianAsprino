@@ -63,7 +63,7 @@
 # contacto
 
 <p align="left">
-<a href="mailto:asprinosebastian@proton.me"><img src="https://img.shields.io/badge/EMAIL-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:contacto@asprino.dev"><img src="https://img.shields.io/badge/EMAIL-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sebastian-alejandro-asprino-ortiz-432075249/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 

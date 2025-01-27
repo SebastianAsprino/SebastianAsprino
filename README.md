@@ -76,7 +76,7 @@ SebastianAsprino/SebastianAsprino is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- estilo que no use, puede que lo use a futuro 
+<!-- estilo que no use, puede que lo use a futuro.
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) 
 ![Email](https://img.shields.io/badge/Email-asprinosebastian@proton.me-black?style=flat-square&logo=protonmail)
 ![Email](https://img.shields.io/badge/Email-blue?style=flat-square&logo=protonmail&color=black)

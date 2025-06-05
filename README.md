@@ -5,6 +5,7 @@
 <div>
 <p>Soy un desarrollador full-stack apasionado con experiencia en la creación de soluciones innovadoras y eficientes. Como fundador de Undercodes y Moecorp, tengo una trayectoria sólida en liderar proyectos y equipos para desarrollar Software de alta calidad.</p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SebastianAsprino&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=codeSTACKr" alt="SebastianAsprino" />
+<img align="right" src="[https://github-readme-stats-nine-sigma-90.vercel.app/api?username=SebastianAsprino&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=codeSTACKr" alt="SebastianAsprino" />
 </div>
 
 ## Lenguajes

@@ -19,6 +19,7 @@
 ![Shell](https://img.shields.io/badge/-Shell-000000?style=flat-square&logo=powershell)
 
 ![Top Langs](https://github-readme-stats-nine-sigma-90.vercel.app/api/top-langs/?username=SebastianAsprino&layout=compact&theme=codeSTACKr)
+<a href="https://gitroll.io/profile/u8IHuSiEUE7NtPZPpBL91CjSy2qy2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8IHuSiEUE7NtPZPpBL91CjSy2qy2?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
 
 ## Frameworks
 
@@ -91,3 +92,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 
 ![:name](https://count.getloli.com/get/@SAAO?theme=rule34) -->
+

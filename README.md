@@ -3,7 +3,7 @@
 <a href="https://asprino.dev"><img alt="Website" src="https://img.shields.io/badge/Website-asprino.dev-FB542B?style=flat-square&logo=brave"></a>
 </p>
 <div>
-<p>Fullstack Software Engineer con más de 4 años de experiencia entregando aplicaciones web y APIs en producción. Especialista en TypeScript end-to-end — React/Next.js en frontend, Node.js/Hono y Elysia/Bun en backend — con experiencia en arquitecturas serverless (AWS Lambda), microservicios, Hexagonal Architecture y monorepos pnpm.</p>
+<p>Fullstack Software Engineer con más de 5 años de experiencia entregando aplicaciones web y APIs en producción. Especialista en TypeScript end-to-end — React/Next.js en frontend, Node.js/Hono y Elysia/Bun en backend — con experiencia en arquitecturas serverless (AWS Lambda), microservicios, Hexagonal Architecture y monorepos pnpm.</p>
 <img align="right" src="https://github-readme-stats-elmascapitos-projects-09c8d4b2.vercel.app/api?username=SebastianAsprino&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=codeSTACKr" alt="SebastianAsprino" />
 </div>
 
@@ -90,6 +90,8 @@
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat-square&logo=slack)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion)
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat-square&logo=visualstudiocode)
+
+<a href="https://gitroll.io/profile/u8IHuSiEUE7NtPZPpBL91CjSy2qy2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8IHuSiEUE7NtPZPpBL91CjSy2qy2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
 # contacto
 
